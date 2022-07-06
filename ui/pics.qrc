@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon_pics/ok_60px.png</file>
+    <file>icon_pics/copy_48px.png</file>
+    <file>icon_pics/clear_symbol_52px.png</file>
+    <file>icon_pics/camera_52px.png</file>
+    <file>icon_pics/delete_bin.png</file>
+    <file>icon_pics/windows_icon.png</file>
+    <file>icon_pics/power.png</file>
+    <file>icon_pics/sendicon1.png</file>
+  </qresource>
+</RCC>
