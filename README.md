@@ -1,12 +1,10 @@
 # Hand-Gestures-Recognition
->Project Name
->
+
 >Date:
 >
->Written By:
+>Credits:
 
 ## Introduction
-* * *
 A **PYQT**-based GUI hand gesture recognition application that interprets human hand gestures to form words that can turned into sentences using natural language processing.
 
 ## System Overview
