@@ -12,6 +12,8 @@ Provide a general description and functionality of the software system.
 
 ## Design Considerations
 Describe the issues that need to be addressed before creating a design solution
+### Embedding Camera
+
 
 ### Assumptions and Dependencies:
 Describe any assumptions that may be wrong or any dependencies on other things.
