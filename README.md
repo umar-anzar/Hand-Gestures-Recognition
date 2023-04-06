@@ -6,7 +6,7 @@
 
 ## Introduction
 A **PYQT**-based GUI hand gesture recognition application that interprets human hand gestures to form words that can turned into sentences using natural language processing.
-
+<!--
 ## System Overview
 Provide a general description and functionality of the software system.
 
@@ -41,4 +41,4 @@ Component 2
 Describe components and subcomponents.
 Module 1
 Module 2
-
+-->
